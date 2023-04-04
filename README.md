@@ -1,6 +1,6 @@
 # ChromoSense
 Code for the ChromoSense project: a multimodal deformation and temperature sensor. 
-We include several directories with code that cannot be executed on Code Ocean. 
+DOI: https://zenodo.org/badge/latestdoi/528449878
 ---------------------------------------------------------------------------------
 
 digital_twin: contains the python scripts for generating the origami interface digital twin. 
